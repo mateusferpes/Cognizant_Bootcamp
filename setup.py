@@ -11,7 +11,7 @@ setup(
     version="0.0.1",
     author="Mateus",
     author_email="mateus.fer.pes@gmail.com",
-    description="A simple package to convert a image to gray scale",
+    description="iioA simple package to convert a image to gray scale",
     long_description=page_description,
     long_description_content_type="text/markdown",
     url="my_github_repository_project_link",
